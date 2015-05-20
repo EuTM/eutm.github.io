@@ -1,0 +1,37 @@
+{{#layout}}
+  <body class="meetup">
+    <header>
+      <div class="inner">
+        <h1>Euregio Tech Community</h1>
+        <h2></h2>
+        <a href="https://github.com/EuTM" class="button"><small>Follow us on</small>GitHub</a>
+      </div>
+    </header>
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+      	<aside>
+      		<h2>
+            <a name="euregio-events-academy--mentoring" class="anchor" href="#euregio-events-academy--mentoring"><span class="octicon octicon-link"></span></a>Meetup info</h2>
+            	<ul>
+            		<li>Host: {{page.host}}</li>
+            		<li>When: {{page.when}}</li>
+            		<li>Address: {{page.address}}</li>
+            		{{#if page.speaker}}<li>Speaker: {{page.speaker}}</li>{{/if}}
+            		{{#if page.price}}<li>Price: {{page.price}}</li>{{/if}}
+            		{{#if page.rsvp_until}}<li>{{page.rsvp_until}}</li>{{/if}}
+            		<h3>Let us know if you are coming</h3>
+                	<a href="http://www.meetup.com/{{page.meetup_namespace}}/{{page.event_id}}/" data-event="{{page.event_id}}" class="mu-rsvp-btn">RSVP</a>
+            	</ul>
+      	</aside> 
+        <section id="main-content">
+          <h1>
+            <a name="euregio-tech-community" class="anchor" href="#euregio-tech-community"><span class="octicon octicon-link"></span></a>{{page.title}}</h1>
+            <img src="{{page.img}}" />
+
+            {{{page.html}}}
+        </section>
+      </div>
+    </div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=e8hipj9hgi9vt8m3vag6tvdlb6";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
+</body>
+{{/layout}}
