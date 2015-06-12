@@ -1,7 +1,10 @@
 #!/bin/sh
-
-rm -rf dist/
-g rm --cached -r dist && g c -m "remove dist" 
-BROCCOLI_TACO_ENV=production broccoli-taco build dist
-g a dist && g c -m "add dist again"
-g stp dist/ origin master 
+g co dev
+rm -rf dist/ && BROCCOLI_TACO_ENV=production broccoli-taco build dist
+g co master
+ls | egrep -v "dist|bower_components|node_modules|CNAME" | xargs rm -rf
+mv dist/* .
+g a -A
+g c -m "update eutm site"
+g p origin master:master
+g co - 
