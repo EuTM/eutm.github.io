@@ -1,5 +1,4 @@
 # Created by https://www.gitignore.io
-
 node_modules/
 tmp/
 bower_components/
