@@ -2,9 +2,7 @@
 node_modules/
 tmp/
 bower_components/
-dist/
 
->>>>>>> 6579724... update gitignore.
 ### OSX ###
 .DS_Store
 .AppleDouble
