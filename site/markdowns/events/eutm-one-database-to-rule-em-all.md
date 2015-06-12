@@ -18,7 +18,7 @@ Jonathan will cover the following topics:
 - explain the basic principles of PouchDB
 - demonstrate setting up  a basic application
 - highlight the benefits of live synchronization
-
+- illustrate some of the pitfalls of this new approach to data storage
 
 After that we'll have a lively discussion about the potential use cases.
 
