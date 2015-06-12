@@ -1,7 +1,10 @@
 # Created by https://www.gitignore.io
 node_modules/
-bower_components/
 tmp/
+bower_components/
+dist/
+
+>>>>>>> 6579724... update gitignore.
 ### OSX ###
 .DS_Store
 .AppleDouble
