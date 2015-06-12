@@ -3,7 +3,6 @@
 node_modules/
 tmp/
 bower_components/
-
 ### OSX ###
 .DS_Store
 .AppleDouble
