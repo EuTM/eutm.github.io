@@ -1,6 +1,9 @@
 # Created by https://www.gitignore.io
 
-#!! ERROR: os x is undefined. Use list command to see defined gitignore types !!#
+node_modules/
+tmp/
+bower_components/
+dist/
 
 ### OSX ###
 .DS_Store
