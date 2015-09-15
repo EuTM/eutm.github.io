@@ -2,7 +2,7 @@
 title: "Hackathon: Euregio Tech Meetup homepage"
 img: "/static/img/eutm-hackathon-homepage.png"
 host: "AISLER HQ"
-when: "August 28, 2015; 19:00h"
+when: "2015-08-28 19:00"
 address: "Schoolstraat 2, Lemiers"
 meetup: EuregioTechMeetup/events/224685994/
 description: "For ages we wanted to build a dedicated site for the Meetup, now it's time to do it ;-)"

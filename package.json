@@ -24,6 +24,10 @@
     "broccoli-uglify-js": "^0.1.3",
     "handlebars": "^3.0.0",
     "marky-mark": "^1.2.1",
+    "moment": "^2.10.6",
+    "moment-timezone": "^0.4.0",
+    "request": "^2.61.0",
+    "rsvp": "^3.1.0",
     "walk-sync": "^0.1.3"
   }
 }

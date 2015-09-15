@@ -2,7 +2,7 @@
 title: "Workshop: From Arduino Prototype to Scalable PCB"
 img: "/static/img/euregio-tech-meetup-from-arduino-to-scalable-pcb-2.png"
 host: "AISLER HQ"
-when: "March 20, 16:00 - March 22, 19:00"
+when: "2015-03-20 16:00"
 address: "Schoolstraat 2, 6295AV Lemiers, NL"
 speaker: Patrick Franken
 price: "EUR 25,- (for the hardware, beer and pizza)"
@@ -25,16 +25,16 @@ You should participate if:
 The agenda is as follows:
 
 - Friday: Introduction into planning hardware from scratch (schematics, board drawings, etc); how to read/understand technical specification of vendors
-- Saturday: build the PCB (We will visit the local FabLab in Aachen) and solder the components onto it 
+- Saturday: build the PCB (We will visit the local FabLab in Aachen) and solder the components onto it
 - Sunday: program it using C and be creative with it!
 
 It's a rough agenda, should we be quicker with one part, we will directly go to the next!
 
-As it is a bit harder to procure parts without knowing what to build, we would focus on implementing a 3d sensor and some basic microprocessor to help process the signals. 
+As it is a bit harder to procure parts without knowing what to build, we would focus on implementing a 3d sensor and some basic microprocessor to help process the signals.
 
-We will collect a small amount for buying the materials (through meetup). We added a small buffer for beer and pizza. 
+We will collect a small amount for buying the materials (through meetup). We added a small buffer for beer and pizza.
 
-__Attention: Please bring your laptop with you!__ 
+__Attention: Please bring your laptop with you!__
 
 Hope to see you all there.
 

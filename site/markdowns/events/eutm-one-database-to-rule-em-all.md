@@ -2,7 +2,7 @@
 title: "One Database to rule 'em all: replicate data with PouchDB a javascript based DB"
 img: "/static/img/euregio-tech-meetup-one-database-to-rule-em-all.png"
 host: "INFORM GmbH"
-when: "June 24, 20:00h"
+when: "2015-06-24 20:00"
 address: "Pascalstr. 35, Aachen"
 speaker: Jonathan Diehl
 meetup: EuregioTechMeetup/events/223197923
@@ -25,4 +25,4 @@ After that we'll have a lively discussion about the potential use cases.
 This event will be hosted at INFORM GmbH, Pascalstraße 35, Aachen
 
 
-Hope to see y'all there 
+Hope to see y'all there
